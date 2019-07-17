@@ -1,6 +1,6 @@
-<b> Best INTERVIEW resources</b>
+# <b> Best INTERVIEW resources</b>
 
-<b>Coding</b>
+## <b>Coding</b>
 
 <b> 1) Geeksforgeeks</b>
 <br> https://www.geeksforgeeks.org/ <br>
