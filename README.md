@@ -21,8 +21,7 @@ It is a platform where the company hosts its recruitment in the form of competit
 https://www.hackerearth.com/<br>
 
 # <Data Science>
-
-## 1) Kaggle<br>
+1) Kaggle<br>
 
 https://kaggle.com.<br>
 
