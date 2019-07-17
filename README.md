@@ -21,11 +21,11 @@ It is a platform where the company hosts its recruitment in the form of competit
 https://www.hackerearth.com/<br>
 
 # Data Science
-1) Kaggle<br>
+1)Kaggle<br>
 
 https://kaggle.com.<br>
 
-it is the best resources for practice Data science.<br>
+it is one of the best resources for practice Data science.<br>
 
 2)https://github.com/thepradip/120-Data-Science-Interview-Questions<br>
 
