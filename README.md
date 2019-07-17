@@ -37,9 +37,7 @@ https://github.com/thepradip/DS-Career-Resources
 
 <b>Blog</b>
 
-<br>1)
-
-https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
+<br>1)https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
 
 <br>2)http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
 
