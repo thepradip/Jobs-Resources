@@ -20,7 +20,7 @@ https://www.hackerrank.com/<br>
 It is a platform where the company hosts its recruitment in the form of competition.<br>
 https://www.hackerearth.com/<br>
 
-# <Data Science>
+# Data Science
 1) Kaggle<br>
 
 https://kaggle.com.<br>
