@@ -48,6 +48,7 @@ https://github.com/thepradip/DS-Career-Resources
 <b>Resume</b>
 <br>
 1)Resume.com<br>
+https://www.resume.com/
 
 2)zety resume builder<br>
 
