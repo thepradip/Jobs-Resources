@@ -6,7 +6,7 @@
 <br> https://www.geeksforgeeks.org/ <br>
 it one of the best free online resource. it has an interview question from most of the company, with a good explanation.
 <b> 2)AmbitionBox:</b> 
-https://www.ambitionbox.com<br>
+https://www.ambitionbox.com
 It has Interview questions, reviews, Salary Calculator,practice tests....<br>
 <b> 3)India bix </b><br>
 <br>https://www.indiabix.com/<br>
