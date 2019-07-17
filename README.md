@@ -46,7 +46,7 @@ https://github.com/thepradip/DS-Career-Resources
 
 <br>4)https://onlinetutorials.today/data-science/data-science-interview-questions-and-answers/
 
-<b>Resume</b>
+## Resume
 <br>
 1)Resume.com<br>
 https://www.resume.com/
@@ -57,7 +57,7 @@ www.zety.com<br>
 
 3)www.resumonk.com<br>
 
-<b>Careers</b><br>
+## Careers <br>
 1) The balance careers<br>
 https://www.thebalancecareers.com/<br>
 It has why,what,where,how information about careers.
