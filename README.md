@@ -4,20 +4,20 @@
 It is one of the best free online resource. it has an interview question from most of the company, with a good explanation.
 - [AmbitionBox](https://www.ambitionbox.com)<br>
 It has Interview questions, reviews, Salary Calculator,practice tests....<br>
--[India bix](https://www.indiabix.com/)<br>
+- [India bix](https://www.indiabix.com/)<br>
 it's all about Aptitude Questions and Answers.<br>
 -[Leetcode:](https://leetcode.com/)<br>
 It is online platform for coding interviews.<br>
--[Hackerrank:](https://www.hackerrank.com/)<br>
--[Hacker Earth:](https://www.hackerearth.com/)<br>
+- [Hackerrank:](https://www.hackerrank.com/)<br>
+- [Hacker Earth:](https://www.hackerearth.com/)<br>
 It is a platform where the company hosts its recruitment in the form of competition.<br>
 ## Data Science
--[Kaggle](https://kaggle.com)<br>
+- [Kaggle](https://kaggle.com)<br>
 It is one of the best resources for practice Data science.<br>
-2)https://github.com/thepradip/120-Data-Science-Interview-Questions<br>
-3)https://github.com/thepradip/data-science-question-answer<br>
+- [120 Data Science Interview Questions](https://github.com/thepradip/120-Data-Science-Interview-Questions) <br>
+- [data science question answesr](https://github.com/thepradip/data-science-question-answer)<br>
 
-<b>4)Data Science Career Resources</b><br>
+## Data Science Career Resources
 
 https://github.com/thepradip/DS-Career-Resources
 
