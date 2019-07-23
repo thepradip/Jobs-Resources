@@ -22,7 +22,7 @@ It is one of the best resources for practice Data science.<br>
 ## Blog
 - [Top-30-data-science-interview-questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)<br>
 - [Top-100-Data-science-interview-questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?)<br>
-- [data-science-interview-questions/])(https://www.springboard.com/blog/data-science-interview-questions/)<br>
+- [data-science-interview-questions](https://www.springboard.com/blog/data-science-interview-questions/)<br>
 - [data-science-interview-questions-and-answers](https://onlinetutorials.today/data-science/data-science-interview-questions-and-answers/)<br>
 ## Resume <br>
 - [Resume.com](https://www.resume.com/)<br>
