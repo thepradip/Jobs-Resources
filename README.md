@@ -18,31 +18,20 @@ It is one of the best resources for practice Data science.<br>
 - [data science question answesr](https://github.com/thepradip/data-science-question-answer)<br>
 
 ## Data Science Career Resources
-
-https://github.com/thepradip/DS-Career-Resources
-
-<b>Blog</b>
-
-<br>1)https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
-
-<br>2)http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
-
-<br>3)https://www.springboard.com/blog/data-science-interview-questions/
-
-<br>4)https://onlinetutorials.today/data-science/data-science-interview-questions-and-answers/
-
-## Resume
+- [DS-Career-Resources](https://github.com/thepradip/DS-Career-Resources)<br>
+## Blog
+- [Top-30-data-science-interview-questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c) 
 <br>
-1)Resume.com<br>
-https://www.resume.com/
+- [Top-100-Data-science-interview-questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?)<br>
+- [data-science-interview-questions/])(https://www.springboard.com/blog/data-science-interview-questions/)<br>
+- [data-science-interview-questions-and-answers](https://onlinetutorials.today/data-science/data-science-interview-questions-and-answers/)
 
-2)zety resume builder<br>
+## Resume 
+- [Resume.com](https://www.resume.com/)<br>
+- [Zety resume builder](www.zety.com)<br>
 
-www.zety.com<br>
-
-3)www.resumonk.com<br>
+- [Resumonk](www.resumonk.com)
 
 ## Careers <br>
-1) The balance careers<br>
-https://www.thebalancecareers.com/<br>
+- [The balance careers](https://www.thebalancecareers.com/) <br>
 It has why,what,where,how information about careers.
