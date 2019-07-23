@@ -1,4 +1,5 @@
 #  Best INTERVIEW resources
+<img src="https://github.com/thepradip/Jobs-Resources/blob/master/interview.jpg" alt="JS" width="600"/>
 ## Coding
 - [Geeksforgeeks](https://www.geeksforgeeks.org/) <br>
 It is one of the best free online resource. it has an interview question from most of the company, with a good explanation.
