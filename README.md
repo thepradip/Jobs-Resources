@@ -1,12 +1,8 @@
 # <b> Best INTERVIEW resources</b>
-
-## <b>Coding</b>
-
-<b> 1) Geeksforgeeks</b>
-<br> https://www.geeksforgeeks.org/ <br>
-it one of the best free online resource. it has an interview question from most of the company, with a good explanation.
-<b> 2)AmbitionBox:</b> 
-https://www.ambitionbox.com
+## Coding
+<b>[Geeksforgeeks](https://www.geeksforgeeks.org/)</b>
+It is one of the best free online resource. it has an interview question from most of the company, with a good explanation.
+2)[AmbitionBox](https://www.ambitionbox.com)<br>
 It has Interview questions, reviews, Salary Calculator,practice tests....<br>
 <b> 3)India bix </b>
 <br>https://www.indiabix.com/
