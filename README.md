@@ -8,7 +8,7 @@ It is one of the best free online resource. it has an interview question from mo
 It has Interview questions, reviews, Salary Calculator,practice tests....<br>
 - [India bix](https://www.indiabix.com/)<br>
 it's all about Aptitude Questions and Answers.<br>
--[Leetcode:](https://leetcode.com/)<br>
+- [Leetcode:](https://leetcode.com/)<br>
 It is online platform for coding interviews.<br>
 - [Hackerrank:](https://www.hackerrank.com/)<br>
 - [Hacker Earth:](https://www.hackerearth.com/)<br>
