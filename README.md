@@ -16,13 +16,14 @@ It is a platform where the company hosts its recruitment in the form of competit
 ## Data Science
 - [Kaggle](https://kaggle.com)<br>
 It is one of the best resources for practice Data science.<br>
-- [120 Data Science Interview Questions](https://github.com/thepradip/120-Data-Science-Interview-Questions) <br>
-- [data science question answesr](https://github.com/thepradip/data-science-question-answer)<br>
 
 ## Data Science Career Resources
 - [DS-Career-Resources](https://github.com/thepradip/DS-Career-Resources)<br>
-## Blog
+## Data science Interview questions
 - [Top-30-data-science-interview-questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)<br>
+
+- [120 Data Science Interview Questions](https://github.com/thepradip/120-Data-Science-Interview-Questions) <br>
+- [data science question answesr](https://github.com/thepradip/data-science-question-answer)<br>
 - [Top-100-Data-science-interview-questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?)<br>
 - [data-science-interview-questions](https://www.springboard.com/blog/data-science-interview-questions/)<br>
 - [data-science-interview-questions-and-answers](https://onlinetutorials.today/data-science/data-science-interview-questions-and-answers/)<br>
