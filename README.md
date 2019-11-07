@@ -35,6 +35,7 @@ It is one of the best resources for practice Data science.<br>
 
 ## Mock Interview:
 - [Pramp](https://www.pramp.com/dashboard#/)
+- [Pramp | blog](https://blog.pramp.com/)
 
 ## Careers <br>
 - [The balance careers](https://www.thebalancecareers.com/) <br>
