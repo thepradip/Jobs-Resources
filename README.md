@@ -33,6 +33,9 @@ It is one of the best resources for practice Data science.<br>
 
 - [Resumonk](www.resumonk.com)
 
+## Mock Interviewa:
+- [Pramp](https://www.pramp.com/dashboard#/)
+
 ## Careers <br>
 - [The balance careers](https://www.thebalancecareers.com/) <br>
 It has why,what,where,how information about careers.
