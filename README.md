@@ -33,7 +33,7 @@ It is one of the best resources for practice Data science.<br>
 
 - [Resumonk](www.resumonk.com)
 
-## Mock Interviewa:
+## Mock Interview:
 - [Pramp](https://www.pramp.com/dashboard#/)
 
 ## Careers <br>
