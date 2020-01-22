@@ -6,6 +6,7 @@
 - [Naukri|most job posts](https://www.naukri.com/)
 - [Hirist](https://www.hirist.com/)
 - [Indeed](https://www.indeed.co.in/)
+- [Monster](https://www.monsterindia.com/rio/login)
 - [How to get job](https://www.glassdoor.com/blog/guide/how-to-get-a-job/)
 ## Coding
 - [Geeksforgeeks](https://www.geeksforgeeks.org/) <br>
