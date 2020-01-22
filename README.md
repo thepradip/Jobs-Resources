@@ -29,6 +29,7 @@ It is one of the best resources for practice Data science.<br>
 - [data-science-interview-questions](https://www.springboard.com/blog/data-science-interview-questions/)<br>
 - [data-science-interview-questions-and-answers](https://onlinetutorials.today/data-science/data-science-interview-questions-and-answers/)<br>
 ## Resume <br>
+- [Resume worded](https://resumeworded.com/first-login-home.php)
 - [Resume.com](https://www.resume.com/)<br>
 - [Zety resume builder](www.zety.com)<br>
 
