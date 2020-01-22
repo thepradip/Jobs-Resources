@@ -1,6 +1,11 @@
 <img src="https://github.com/thepradip/Jobs-Resources/blob/master/interview.jpg" alt="JS" width="600"/> <br>
 
-#  Best INTERVIEW resources
+#  Resources
+## Job portal
+- [Linkedin|50% jobs get by connection](https://www.linkedin.com/)
+- [Naukri|most job posts](https://www.naukri.com/)
+- [Hirist](https://www.hirist.com/)
+- [Indeed](https://www.indeed.co.in/)
 - [How to get job](https://www.glassdoor.com/blog/guide/how-to-get-a-job/)
 ## Coding
 - [Geeksforgeeks](https://www.geeksforgeeks.org/) <br>
